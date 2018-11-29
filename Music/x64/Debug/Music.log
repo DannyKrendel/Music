@@ -1,0 +1,7 @@
+﻿  Music.cpp
+c:\users\danny\source\repos\music\music\music.cpp(15): warning C4244: аргумент: преобразование "_Ty2" в "DWORD", возможна потеря данных
+          with
+          [
+              _Ty2=double
+          ]
+  Music.vcxproj -> C:\Users\Danny\Source\Repos\Music\x64\Debug\Music.exe
